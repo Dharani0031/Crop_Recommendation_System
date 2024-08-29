@@ -30,7 +30,7 @@ This Crop Recommendation System is a machine learning application developed usin
 
 You can install the required libraries using `pip` command.
 
-pip install streamlit pandas numpy matplotlib seaborn scikit-learn
+``` pip install streamlit pandas numpy matplotlib seaborn scikit-learn
 
 ## Run the Streamlit
 
