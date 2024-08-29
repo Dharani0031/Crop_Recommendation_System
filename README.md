@@ -30,5 +30,20 @@ This Crop Recommendation System is a machine learning application developed usin
 
 You can install the required libraries using `pip` command.
 
+
 ```bash
 pip install streamlit pandas numpy matplotlib seaborn scikit-learn
+
+## Run the Streamlit
+
+```bash
+python -m streamlit run crop_recommendation.py
+
+## Dataset
+
+https://www.kaggle.com/datasets/siddharthss/crop-recommendation-dataset?resource=download
+
+## Output
+![image](https://github.com/user-attachments/assets/b3690eff-1ca5-462d-b4ec-dc00c59a3cd1)
+
+
