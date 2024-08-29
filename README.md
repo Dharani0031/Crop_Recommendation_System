@@ -19,7 +19,7 @@ This Crop Recommendation System is a machine learning application developed usin
 - Visualizations of the temperature and pH distributions with user inputs highlighted.
 
 ## Requirements
-
+ 
 - Python 3.x
 - Streamlit
 - Pandas
